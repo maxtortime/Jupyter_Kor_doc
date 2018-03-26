@@ -26,7 +26,7 @@ You can find the installation documentation for the
 [here](https://jupyter-notebook.readthedocs.io/en/latest/).
 
 설치를 위해서는 
-[pip installed](https://pip.readthedocs.io/en/stable/installing/) 가 있는지 확인한 후 다음을 실행해주세요:
+[pip](https://pip.readthedocs.io/en/stable/installing/)가 설치 되어 있는지 확인한 후 다음을 실행해주세요:
 
     $ pip install notebook
 
